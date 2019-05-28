@@ -1,5 +1,7 @@
 # Wilson :: Sample and Hold
 
+# WARNING: This module is quite buggy in its current state. I advise against using it for now.
+
 This is a relatively straight forward combined noise and sample & hold circuit, with a bunch of adjustment capabilities.
 
 - External sample source and trigger inputs.
